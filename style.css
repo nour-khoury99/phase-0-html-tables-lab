@@ -1,0 +1,33 @@
+
+  .table1{
+    border-collapse: collapse;
+  }
+  
+  
+  table {
+    width: 50%;
+    border-collapse: collapse;
+  }
+  
+
+  .img{
+    width:5%;
+    height: 5%;
+  }
+
+  table,th,td
+  {
+    border:1px solid grey;
+    color:black;
+  }
+
+  table .r1{
+    background-color: #F1F2F3;
+  }
+
+  table .blue{
+    background-color: #ADD8E6;
+  }
+  table .Azure{
+    background-color: #FAFAFA;
+  }
